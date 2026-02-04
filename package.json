@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://whoislakshyaanyways.github.io/For-Her/",
+"homepage": "https://akshkoshti7999-byte.github.io/For-Her",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist",
   "scripts": {
